@@ -1,0 +1,5 @@
+#ignore object file with name 
+a.out
+
+#ignore object file with extension
+.vscode
