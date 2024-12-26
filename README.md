@@ -22,8 +22,6 @@ The goal is to determine the maximum profit achievable by cutting the slab into 
 ![image](https://github.com/user-attachments/assets/c329bc93-16e5-46eb-9c4d-9fa9604488f5)
 
 
-In this example, the optimal cutting yields pieces that maximize profit, resulting in a total value of 120.
-
 ## My Contributions
 1. **Algorithm Implementation**:
    - Designed the dynamic programming logic for maximizing profit through optimal slab cuts.
